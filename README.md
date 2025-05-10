@@ -4,13 +4,13 @@ This Python script allows you to control your mouse cursor using the WASD keys w
 
 Features:
 
-✅ WASD Movement – Move the cursor smoothly in any direction.
++ WASD Movement – Move the cursor smoothly in any direction.
 
-✅ Circular Boundary – The cursor cannot go beyond the set radius.
++ Circular Boundary – The cursor cannot go beyond the set radius.
 
-✅ Auto-Centering – Returns to the center when keys are released.
++ Auto-Centering – Returns to the center when keys are released.
 
-✅ Adjustable Settings – Customize speed, radius, and smoothness.
++ Adjustable Settings – Customize speed, radius, and smoothness.
 
 Usage:
 
