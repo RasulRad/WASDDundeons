@@ -1,6 +1,7 @@
 This Python script allows you to control your mouse cursor using the WASD keys while keeping it within a defined circular radius around the screen center. Pressing F triggers a left mouse click for attacks or interactions.
 
 Features:
+
 ✅ WASD Movement – Move the cursor smoothly in any direction.
 
 ✅ Circular Boundary – The cursor cannot go beyond the set radius.
