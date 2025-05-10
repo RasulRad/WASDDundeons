@@ -11,6 +11,7 @@ Features:
 + Auto-Centering – Returns to the center when keys are released.
 
 + Adjustable Settings – Customize speed, radius, and smoothness.
+  
 
 Usage:
 
@@ -21,6 +22,7 @@ Usage:
 3.Press F for manual left-click.
 
 4.Close the console to exit.
+
 
 Installation:
 ```
