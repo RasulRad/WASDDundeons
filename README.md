@@ -15,13 +15,13 @@ Features:
 
 Usage:
 
-1.Run the script (requires keyboard, pyautogui, and ctypes libraries).
+1. Run the script (requires keyboard, pyautogui, and ctypes libraries).
 
-2.Use WASD to move the cursor.
+2. Use WASD to move the cursor.
 
-3.Press F for manual left-click.
+3. Press F for manual left-click.
 
-4.Close the console to exit.
+4. Close the console to exit.
 
 
 Installation:
