@@ -23,5 +23,6 @@ Usage:
 4.Close the console to exit.
 
 Installation:
-
+'''
 pip install keyboard pyautogui
+'''
